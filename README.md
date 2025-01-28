@@ -20,7 +20,7 @@
 <h2>Tecnologías conocidas 👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,java,spring,python,sql,git,github,docker,linux,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=angular,java,spring,python,mysql,git,github,docker,linux,vscode&perline=10" />
   </a>
 </p>
 <br>
