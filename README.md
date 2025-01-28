@@ -7,17 +7,14 @@
 </p>
 <br>
 <h2>Sobre mí 😃</h2>
-<p align="left">
-🎓 INGENIERO DE SOFTWARE egresado de la Universidad Surcolombiana (2017 - 2023). 
-
-💼 Con más de 4 años de experiencia en desarrollo de software, me especializo en el diseño de funcionalidades, pruebas, mejoras de rendimiento y capacitación a usuarios. 
-
-🛠️ Amplia experiencia en herramientas como Angular, Java & Spring Boot, SQL y Python.
-
-📜 Certificado en metodologías ágiles como Scrum y tecnologías clave como MATLAB y BIG DATA.
-
-📫 Contacto: **guerrerocordobajohn@gmail.com**
-</p>
+<ul align="left">
+  <li>🎓 INGENIERO DE SOFTWARE egresado de la Universidad Surcolombiana (2017 - 2023).</li>
+  <li>🎓 TECNÓLOGO EN DESARROLLO DE SOFTWARE egresado de la Universidad Surcolombiana (2014 - 2016).</li>
+  <li>💼 Con más de 4 años de experiencia en desarrollo de software, me especializo en el diseño de funcionalidades, pruebas y mejoras de rendimiento.</li>
+  <li>🛠️ Amplia experiencia en herramientas como Angular, Java & Spring Boot, SQL y Python.</li>
+  <li>📜 Certificado en metodologías ágiles como Scrum y tecnologías clave como MATLAB y BIG DATA.</li>
+  <li>📫 Contacto: <strong>guerrerocordobajohn@gmail.com</strong></li>
+</ul>
 <br>
 
 <h2>Tecnologías conocidas 👨🏻‍💻</h2>
