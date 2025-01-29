@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 soy John David Guerrero / JohnWarriorCor ✨</h1> 
+<h1 align="center">Hola 👋 soy John David Guerrero 💻 </h1> 
 
 <p align="left">
   <a href="https://acortar.link/N3uqjk" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="John David Guerrero LinkedIn"/></a>
@@ -64,12 +64,6 @@
   <li>Scrum Fundamentals Certified</li>
   <li>BIG DATA - MINTIC</li>
 </ul>
-<br>
-
-<h2>Si quieres apoyarme 😻</h2>
-<p align="left">
- <a href='https://ko-fi.com/johndev' rel='noopener' target='_blank'><img src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' height="50" width="210" alt='Invítame un café en Ko-fi' /></a>
-</p>
 <br>
 
 <h2>GitHub :octocat:</h2>
