@@ -25,7 +25,7 @@
 </p>
 <br>
 
-<div id="proyectos">
+<!-- <div id="proyectos">
 <h2>Algunos proyectos destacados 👨🏻‍💻</h2>
 
 <table align="left">
@@ -54,7 +54,7 @@
 <br>
 <br>
 <br>
-<br>
+<br> -->
 
 <h2 align="left">Certificaciones 🎓</h2>
 <ul align="left">
