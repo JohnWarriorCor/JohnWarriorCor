@@ -57,7 +57,7 @@
 <br>
 
 <h2 align="left">Certificaciones 🎓</h2>
-<ul>
+<ul align="left">
   <li>Database Management Essentials - University of Colorado (Coursera)</li>
   <li>MATLAB Onramp - MathWorks</li>
   <li>Simulink Onramp - MathWorks</li>
